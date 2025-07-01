@@ -19,6 +19,8 @@ namespace Ayushi_NVB
             Console.WriteLine("Temperature is : " + temp);
             Console.WriteLine("Gender is : " + gender);
             Console.WriteLine("Name is : " + name);
+
+            Console.ReadLine();
         }
     }
 }
