@@ -17,6 +17,7 @@ namespace Ayushi_NVB
                     Console.WriteLine(i);
                 }
             }
+            Console.Read();
         }
     }
 }
