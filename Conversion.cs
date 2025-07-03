@@ -21,6 +21,8 @@ namespace Ayushi_NVB
             no2 = int.Parse(Console.ReadLine());
             Console.WriteLine("First number is : " + no1);
             Console.WriteLine("First number is : " + no2);
+
+            Console.Read();
         }
     }
 }
