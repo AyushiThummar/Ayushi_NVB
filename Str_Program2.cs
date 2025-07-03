@@ -31,6 +31,8 @@ namespace Ayushi_NVB
             int no = 100;
             str3 = $"Multiplication of number is :{no * 10}";
             Console.WriteLine("String 3 is : " + str3);
+
+            Console.Read();
         }
     }
 }
