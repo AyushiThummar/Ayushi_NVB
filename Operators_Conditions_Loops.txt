@@ -1,0 +1,49 @@
+➡️ Operators :-
+
+→ Unary Operator : Works with one operand (Ex., ++x, --y, -a).
+
+→ Binary Operator : Works with two operands (Ex., a + b, x * y).
+
+→ Ternary Operator : A shortcut for if-else : condition ? true : false.
+
+
+➡️ Arithmetic Operators :-
+
+→ Used to perform math operations like +, -, *, /, %.
+
+
+➡️ Relational / Comparison Operators :-
+
+→ Compare two values, return true/false : ==, !=, >, <, >=, <=.
+
+
+➡️ Logical Operators :-
+
+→ Combine multiple conditions : 	&& (AND) : All true
+							|| (OR) : Any one true
+							! (NOT) : Reverses condition
+
+
+
+➡️ Decision Making Statements :-
+
+→ Simple if : Runs code if condition is true.
+
+→ if...else : Runs one block if true, another if false.
+
+→ Nested if : if inside another if for multiple levels of conditions.
+
+→ Ladder if (if...else if) : Checks multiple conditions in order.
+
+→ switch...case : Selects code to run based on matching case value.
+
+
+➡️ Looping Statements :-
+
+→ while : Repeats code while condition is true (entry check).
+
+→ do...while : Runs code at least once, then checks condition (exit check).
+
+→ for : Loops with initialization, condition, and increment in one line.
+
+→ foreach : Loops through each item in an array or collection.
