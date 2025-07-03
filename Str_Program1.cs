@@ -21,6 +21,8 @@ namespace Ayushi_NVB
             Console.WriteLine("String 1 in lower case : " + str3);
             str3 = str2.ToUpper();
             Console.WriteLine("String 2 in upper case : " + str3);
+
+            Console.Read();
         }
     }
 }
