@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array.cs" />
+    <Compile Include="Array1.cs" />
+    <Compile Include="Array_Check_Frequency.cs" />
+    <Compile Include="Array_Max.cs" />
+    <Compile Include="Array_Operations.cs" />
+    <Compile Include="Array_Searching.cs" />
+    <Compile Include="Array_Sorting.cs" />
     <Compile Include="Conversion.cs" />
     <Compile Include="First_fifty_even_numbers.cs" />
     <Compile Include="Program.cs" />
