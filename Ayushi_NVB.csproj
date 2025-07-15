@@ -43,15 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="2D_Array.cs" />
     <Compile Include="Array.cs" />
     <Compile Include="Array1.cs" />
+    <Compile Include="Array_2D.cs" />
+    <Compile Include="Array_Addition.cs" />
     <Compile Include="Array_Check_Frequency.cs" />
     <Compile Include="Array_Max.cs" />
     <Compile Include="Array_Operations.cs" />
     <Compile Include="Array_Searching.cs" />
     <Compile Include="Array_Sorting.cs" />
+    <Compile Include="CLA.cs" />
+    <Compile Include="CMA.cs" />
     <Compile Include="Conversion.cs" />
     <Compile Include="First_fifty_even_numbers.cs" />
+    <Compile Include="Jagged_Array.cs" />
+    <Compile Include="Jagged_Array2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Program1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
