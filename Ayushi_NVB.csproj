@@ -54,8 +54,11 @@
     <Compile Include="Array_Searching.cs" />
     <Compile Include="Array_Sorting.cs" />
     <Compile Include="CLA.cs" />
+    <Compile Include="ClassDemo1.cs" />
+    <Compile Include="ClassDemo2.cs" />
     <Compile Include="CMA.cs" />
     <Compile Include="Conversion.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="First_fifty_even_numbers.cs" />
     <Compile Include="Jagged_Array.cs" />
     <Compile Include="Jagged_Array2.cs" />
