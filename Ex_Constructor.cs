@@ -51,7 +51,7 @@ namespace Ayushi_NVB
                 books[i] = new Book();
                 Console.WriteLine();
             }
-            //Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
             // Display details of all books
             Console.WriteLine("Details of the Books:");
             foreach (var book in books)
