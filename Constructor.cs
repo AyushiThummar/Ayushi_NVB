@@ -78,13 +78,6 @@ namespace Ayushi_NVB
             s4.showData();
 
             Console.WriteLine();
-
-            // 🔸 s5: Copy Constructor (Copied from s2)
-            Student s5 = new Student(s2);
-            Console.WriteLine("Student s5 (Copied from s2):");
-            s5.showData();
-
-            Console.ReadLine(); // Pause to view output
         }
     }
 }

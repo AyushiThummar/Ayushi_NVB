@@ -57,11 +57,13 @@
     <Compile Include="ClassDemo1.cs" />
     <Compile Include="ClassDemo2.cs" />
     <Compile Include="CMA.cs" />
+    <Compile Include="Constructor.cs" />
     <Compile Include="Conversion.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="First_fifty_even_numbers.cs" />
     <Compile Include="Jagged_Array.cs" />
     <Compile Include="Jagged_Array2.cs" />
+    <Compile Include="Parameter_Constructor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Program1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
