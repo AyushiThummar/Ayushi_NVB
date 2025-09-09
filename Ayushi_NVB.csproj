@@ -73,6 +73,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PropertyDemo.cs" />
     <Compile Include="PropertyEmp.cs" />
+    <Compile Include="SingleInheritance.cs" />
     <Compile Include="StaticDemo1.cs" />
     <Compile Include="Str_Program1.cs" />
     <Compile Include="Str_Program2.cs" />
