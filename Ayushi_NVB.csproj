@@ -53,22 +53,31 @@
     <Compile Include="Array_Operations.cs" />
     <Compile Include="Array_Searching.cs" />
     <Compile Include="Array_Sorting.cs" />
+    <Compile Include="Book.cs" />
+    <Compile Include="BookExe.cs" />
     <Compile Include="CLA.cs" />
     <Compile Include="ClassDemo1.cs" />
     <Compile Include="ClassDemo2.cs" />
     <Compile Include="CMA.cs" />
     <Compile Include="Constructor.cs" />
     <Compile Include="Conversion.cs" />
-    <Compile Include="Employee.cs" />
+    <Compile Include="Exercise_Employee.cs" />
+    <Compile Include="Ex_Constructor.cs" />
     <Compile Include="First_fifty_even_numbers.cs" />
+    <Compile Include="Inheritance.cs" />
     <Compile Include="Jagged_Array.cs" />
     <Compile Include="Jagged_Array2.cs" />
     <Compile Include="Parameter_Constructor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Program1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PropertyDemo.cs" />
+    <Compile Include="PropertyEmp.cs" />
+    <Compile Include="StaticDemo1.cs" />
     <Compile Include="Str_Program1.cs" />
     <Compile Include="Str_Program2.cs" />
+    <Compile Include="StudentArrayWithConstructors.cs" />
+    <Compile Include="StudentExe.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
